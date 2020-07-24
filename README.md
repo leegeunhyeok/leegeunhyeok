@@ -1,5 +1,10 @@
 ### Geunhyeok LEE @leegeunhyeok
 
+![Geunhyeok LEE's github stats](https://github-readme-stats.vercel.app/api?username=leegeunhyeok&theme=default&show_icons=true
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leegeunhyeok&hide=)
+
+
 👋 Hello! I am a `Web Front-End Developer`. I effort for better web experience.
 
 #### 👨‍💻 Web Skills
