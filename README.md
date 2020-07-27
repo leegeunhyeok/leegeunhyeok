@@ -12,7 +12,7 @@
 - ⏰ I think steady is my strength.
 - 📝 I mainly use Javascript and Python, and I am interested in new technology.
 - 🙌 I enjoy talking about development.
-- 🌈 My dream is to develop a meaningful service that many people can use.
+- 🌈 My dream is to make a better web environment.
 
 
 #### Languages and Skills
