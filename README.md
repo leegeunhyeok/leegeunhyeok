@@ -31,7 +31,10 @@
 <code><img alt="Git" src="https://user-images.githubusercontent.com/26512984/88481839-ad700600-cf98-11ea-8168-e795e299b730.png" width="32"></code>
 
 
-![Geunhyeok LEE's github stats](https://github-readme-stats.vercel.app/api?username=leegeunhyeok&theme=default&show_icons=true)
+![Geunhyeok LEE's github stats](https://github-readme-stats.vercel.app/api?username=leegeunhyeok&theme=default&show_icons=true&row=2&column=3)
+
+[![eunhyeok LEE's Trophy](https://github-profile-trophy.vercel.app/?username=leegeunhyeok&row=2&column=3&margin-w=15&margin-h=15&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **leegeunhyeok/leegeunhyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
