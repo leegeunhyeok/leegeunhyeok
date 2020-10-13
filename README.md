@@ -33,7 +33,7 @@
 
 ![Geunhyeok LEE's github stats](https://github-readme-stats.vercel.app/api?username=leegeunhyeok&theme=default&show_icons=true&row=2&column=3)
 
-[![eunhyeok LEE's Trophy](https://github-profile-trophy.vercel.app/?username=leegeunhyeok&row=2&column=3&margin-w=15&margin-h=15&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+[![eunhyeok LEE's Trophy](https://github-profile-trophy.vercel.app/?username=leegeunhyeok&row=1&margin-w=15&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
