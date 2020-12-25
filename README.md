@@ -4,6 +4,7 @@
 
 ![SOF](https://stackoverflow.com/users/flair/11683716.png?theme=clean)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleegeunhyeok&count_bg=%23A0A0A0&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 [![Github Badge](http://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&link=https://github.com/leegeunhyeok)](https://github.com/leegeunhyeok)
 [![Blog](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&color=orange&logo=bloglovin&link=https://github.com/leegeunhyeok)](https://geundung.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geunhyeok-lee-89b779185)](https://www.linkedin.com/in/geunhyeok-lee-89b779185)
