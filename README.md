@@ -2,6 +2,8 @@
 
 👋 Hello! I am a `Web Front-End Developer`. I effort for better web experience.
 
+![Metrics](https://metrics.lecoq.io/leegeunhyeok?template=terminal&languages=1&config.timezone=Asia%2FSeoul&config.animated=true)
+
 ![SOF](https://stackoverflow.com/users/flair/11683716.png?theme=clean)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleegeunhyeok&count_bg=%23A0A0A0&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
