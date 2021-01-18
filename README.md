@@ -2,7 +2,7 @@
 
 👋 Hello! I am a `Web Front-End Developer`. I effort for better web experience.
 
-![Metrics](https://metrics.lecoq.io/leegeunhyeok?template=terminal&languages=1&config.timezone=Asia%2FSeoul&config.animated=true)
+![Metrics](https://metrics.lecoq.io/leegeunhyeok?template=classic&base.repositories=0&languages=1&languages.ignored=c%2Cc%2B%2B%2Cjava&config.timezone=Asia%2FSeoul&config.animated=true)
 
 ![SOF](https://stackoverflow.com/users/flair/11683716.png?theme=clean)
 
@@ -37,7 +37,6 @@
 ![Geunhyeok LEE's github stats](https://github-readme-stats.vercel.app/api?username=leegeunhyeok&theme=default&show_icons=true&row=2&column=3)
 
 [![eunhyeok LEE's Trophy](https://github-profile-trophy.vercel.app/?username=leegeunhyeok&row=1&margin-w=15&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <!--
 **leegeunhyeok/leegeunhyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
