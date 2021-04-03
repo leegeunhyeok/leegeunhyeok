@@ -13,10 +13,10 @@
 
 ![SOF](https://stackoverflow.com/users/flair/11683716.png?theme=clean)
 
-- 💻 Junior Developer, interested in Web and Development.
+- 💻 I'm Junior Developer, interested in Web and Development.
 - ⏰ I think steady is my strength.
-- 📝 I mainly use Javascript and Python, and I am interested in new technology.
-- 🙌 I enjoy talking about development.
+- 📝 Mainly use JS/TS and Python, and I am interested in new technologies.
+- 🙌 Enjoy talking about development.
 - 🌈 My dream is to make a better web.
 
 #### Languages and Skills
