@@ -1,1 +1,5 @@
-![code](https://user-images.githubusercontent.com/26512984/230290017-1f2c5629-2001-4730-82b2-2652eb530ef0.png)
+<a href="https://this.geundung.dev" title="website">
+  <img alt="leegeunhyeok" src="https://user-images.githubusercontent.com/26512984/231942993-6086680b-a95c-40e8-9cee-cad5aeaa5bbf.png" width="612" />
+</a>
+
+> 🚀 Keep working for continuous growth
